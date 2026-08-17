@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Подать заявление на подключение электричества",
+        "description": "Оформить заявку через ТП. Номер договора 05341-АК",
+        "target_date": "21.11.2026",
+        "priority": "высокий",
+        "completed": false,
+        "completed_date": null,
+        "created_at": "2026-08-17 02:59:28"
+    },
+    {
+        "id": 2,
+        "name": "Привить собаку",
+        "description": "От всего кроме бешенства (срок ещё не истёк)",
+        "target_date": "04.09.2026",
+        "priority": "средний",
+        "completed": false,
+        "completed_date": null,
+        "created_at": "2026-08-17 03:00:20"
+    },
+    {
+        "id": 3,
+        "name": "Продать диван",
+        "description": "Не меньше чем за 1000 рублей",
+        "target_date": "11.02.2027",
+        "priority": "низкий",
+        "completed": false,
+        "completed_date": null,
+        "created_at": "2026-08-17 03:03:18"
+    }
+]
